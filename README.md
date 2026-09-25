@@ -6,5 +6,7 @@ I am a Computer Science student at Bina Nusantara University. I focus on buildin
 
 - 🔭 I’m currently working on **RuangPulih** (Fullstack Mental Health Platform)
 - 🌱 I’m currently deep-diving into **Client-Server Architecture & AI Integration**
-- 💻 Tech Stack: **Next.js, Flutter, NestJS, TypeScript, PostgreSQL**
 - 🚀 Always open to discussing **Software Architecture** and UI/UX.
+- 📫 How to reach me: [Masukkan Tautan Email] | [Masukkan Tautan LinkedIn]
+
+### 🛠️ Tech Stack & Tools
