@@ -5,7 +5,7 @@
 
 ---
 
-Ferdinand Setyawan is a Computer Science undergraduate at Bina Nusantara University specializing in Software Engineering. Operating as a Fullstack Web & Mobile Developer, he focuses on engineering resilient, scalable software architectures while maintaining the speed and agility required for rapid MVP execution. He is dedicated to clean domain separation, robust client-server contracts, and pragmatic system design that delivers measurable value without accumulating technical debt.
+Computer Science undergraduate at Bina Nusantara University specializing in Software Engineering. Designs and deploys fullstack web systems and cross-platform mobile applications with an emphasis on domain separation, robust client-server contracts, and pragmatic MVP execution without structural debt.
 
 ---
 
@@ -13,8 +13,8 @@ Ferdinand Setyawan is a Computer Science undergraduate at Bina Nusantara Univers
 
 | Project / System | Architecture & Implementation Details | Tech Stack |
 | :--- | :--- | :--- |
-| **[RuangPulih](https://github.com/ferdinandsetyawan)**<br>*(Mental Health & Recovery Ecosystem)* | • Engineered a distributed Fullstack Client-Server architecture connecting cross-platform mobile clients (Flutter) and administrative web portals (Next.js) to a modular NestJS API.<br>• Implemented secure stateless authentication and access governance utilizing JWT Auth.<br>• Architected a reactive State Gamification engine to facilitate user habit tracking and recovery progression.<br>• Integrated Google Gemini AI for contextual conversational intelligence, prompt orchestration, and personalized user insights. | `Flutter`<br>`Dart`<br>`Next.js`<br>`NestJS`<br>`PostgreSQL`<br>`Prisma`<br>`Google Gemini AI`<br>`JWT` |
-| **[Bakso Malang Pak Pras](https://github.com/ferdinandsetyawan)**<br>*(High-Performance Showcase Platform)* | • Architected an Event-Driven Vanilla UI leveraging native browser APIs with zero external runtime overhead.<br>• Implemented the Observer Pattern to manage decoupled component interactions and reactive state synchronization.<br>• Enforced strict BEM (Block Element Modifier) methodology to build isolated, modular, and maintainable CSS architectures.<br>• Achieved perfect 100/100 Lighthouse performance scores through semantic markup, DOM reflow reduction, and optimized asset delivery. | `Vanilla JavaScript`<br>`HTML5`<br>`CSS3 (BEM)`<br>`Observer Pattern`<br>`DOM Optimization` |
+| **[RuangPulih](https://github.com/ferdinandsetyawan)**<br>*(Fullstack Recovery Platform)* | • Architected a distributed client-server ecosystem synchronizing cross-platform mobile clients (Flutter) and administrative web portals (Next.js) with a centralized NestJS REST API.<br>• Implemented stateless authentication and role-based access control via JWT.<br>• Handled state gamification and user habit persistence via Prisma ORM to PostgreSQL.<br>• Integrated Google Gemini API for prompt orchestration and context-aware conversational recovery workflows. | `Flutter`<br>`Dart`<br>`Next.js`<br>`NestJS`<br>`PostgreSQL`<br>`Prisma`<br>`Google Gemini AI`<br>`JWT` |
+| **[Bakso Malang Pak Pras](https://github.com/ferdinandsetyawan)**<br>*(High-Performance Showcase MVP)* | • Built an event-driven web MVP in Vanilla JavaScript utilizing the Observer pattern for decoupled component communication with zero external runtime dependencies.<br>• Structured isolated, scalable UI stylesheets adhering to strict BEM (Block Element Modifier) CSS methodology.<br>• Optimized critical rendering paths and DOM mutations to secure 100/100 Lighthouse performance metrics. | `Vanilla JavaScript`<br>`HTML5`<br>`CSS3 (BEM)`<br>`Observer Pattern`<br>`DOM Optimization` |
 
 ---
 
@@ -67,4 +67,4 @@ Ferdinand Setyawan is a Computer Science undergraduate at Bina Nusantara Univers
 
 [**Email**](mailto:ferdinandsetyawan@gmail.com) • [**LinkedIn**](https://linkedin.com/in/ferdinandsetyawan) • [**Portfolio Website**](https://ferdinandsetyawan.github.io)
 
-> *"Simplicity and architectural discipline pave the fastest path to sustainable product delivery."*
+> *"Disciplined architecture, pragmatic execution, measurable delivery."*
